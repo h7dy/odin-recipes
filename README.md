@@ -1,1 +1,1 @@
-# odin-recipes
+A toy html website to showcase a few recipes
